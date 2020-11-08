@@ -1,5 +1,4 @@
-"Bu program liste içerisinde verilen sayıları küçükten büyüğe\
-sıralamak için yazılmıştır."
+"Bu program liste içerisinde verilen sayıları küçükten büyüğe sıralamak için yazılmıştır."
 
 liste=[-3,2,8,-12,20,6,100,-47,45,1000,0]
 
