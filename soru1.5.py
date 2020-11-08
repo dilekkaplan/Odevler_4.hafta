@@ -1,6 +1,4 @@
-"Bu program, bilgileri girilen 5 futbolcu arasında,\
-Barcelona takımında oynayan futbolcuların bilgilerini\
-iç içe liste şeklinde yazdırır."
+"Bu program, bilgileri girilen 5 futbolcu arasında, Barcelona takımında oynayan futbolcuların bilgilerini iç içe liste şeklinde yazdırır."
 
 liste= []
 for i in range(5):
